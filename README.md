@@ -2,7 +2,7 @@
 
 DJ Blob is made by a [`Java Script`](https://www.javascript.com/) library called [`Discord.js`](https://discord.js.org/#/) and ran by an environment called [`Node.js`](https://nodejs.org/en/)
 
-<img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" /> <img align="left" alt="DiscordJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046391093461003/810761910940205066.png" /> <img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png">.
+<img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" /> <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046391093461003/810761910940205066.png" /> <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png">
 
 
 ## Stats
